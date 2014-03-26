@@ -13,7 +13,7 @@
 		<h4>Recipe Finder</h4>
 		<h3>Author: Farshid Kamal</h3>
 		<h3>Date: 25/03/2014</h3>
-		
+		<h3><a href="doc/recipefinder.pdf">Guideline</a></h3>
 		<h3>Basic workflow:</h3>
 		<h2>
 		
