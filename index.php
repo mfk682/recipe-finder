@@ -44,7 +44,7 @@
 			for ($i=0; $i<count($results); $i++)
 			{
 				if ($results[$i][1] == 1) {
-					echo $results[$i][0]."<br />";
+					echo $results[$i][0]." - [Expires on ". date ('d/m/Y',$results[$i][2]) ."]<br />";
 					$takeoutCount++;
 				}
 			}
